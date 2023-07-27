@@ -1,0 +1,21 @@
+{
+  "name": "wither-weather",
+  "version": "1.0.1",
+  "description": "A component card that shows real-time weather data of places that you wish to search.",
+  "main": "general.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "weather",
+    "api",
+    "places",
+    "card"
+  ],
+  "author": "Trojan Punk",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/TrojanPunk/Wither.git"
+  }
+}
